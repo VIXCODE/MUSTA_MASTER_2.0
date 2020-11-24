@@ -15,7 +15,7 @@
   *  TX maturity: 20 blocks
   *  Algorithm: Scrypt PoW/PoS
   *  PoS staking: Variation Min 195% - Max 500%
-  *  PoW/POS reward: Variation Min 50 - Max 1000 MSC per block
+  *  PoW/POS reward: Variation Min 50 - Max 1000 MUSTA per block
   *  PoW blocks: 150
   *  Port: 21611
   *  rpcPort: 21612
